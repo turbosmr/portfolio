@@ -1,22 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 import Nav from './components/Nav'
 
 function App() {
   return (
     <div>
-        <title>Bootstrap 4 Website Example</title>
-        <meta charSet="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
-        <style dangerouslySetInnerHTML={{__html: "\n  .fakeimg {\n    height: 200px;\n    background: #aaa;\n  }\n  " }} />
         
         <Nav></Nav>
 
         <div className="jumbotron text-center" style={{marginBottom: 0}}>
           <h1>Steve Rentschler</h1>
-          <p>Resize this responsive page to see the effect!</p> 
+     
         </div>
         <div className="container" style={{marginTop: '30px'}}>
           <div className="row">
