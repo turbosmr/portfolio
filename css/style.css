@@ -1,4 +1,20 @@
-h1 {
-  font-family: 'Courier New', Courier, monospace;
-    font-size: 40px;
+
+.mainImage {
+    background-image: url("/images/IMG_0787 copy.jpeg");
+    max-height: 100%;
+    max-width: 100%;
+}
+.Header {
+    background-image: url("/images/IMG_0787 copy.jpeg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.HeaderText {
+    font-weight: 200;
+    font-size: 70px;
+    color: black;
+    line-height: 250px;
 }
