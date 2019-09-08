@@ -1,11 +1,11 @@
 
 .mainImage {
-    background-image: url("/images/IMG_0787 copy.jpeg");
+    background-image: url("/images/IMG_0787copy.jpeg");
     max-height: 100%;
     max-width: 100%;
 }
 .Header {
-    background-image: url("/IMG_0787 copy.jpeg");
+    background-image: url("/IMG_0787copy.jpeg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
