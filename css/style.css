@@ -15,7 +15,21 @@
 }
 .HeaderText {
     font-weight: 200;
-    font-size: 75px;
+    font-size: 70px;
     color: black;
-    line-height: 250px;
+    text-shadow: 1px 1px white;
+    padding-top: 40px;
+}
+.SubheaderText {
+    font-weight: 200;
+    font-size: 40px;
+    color: black;
+}
+.footer {
+    background-color:rgb(40, 40, 40);
+    color: white;
+    padding: 30px;
+}
+.footer-pushdown {
+   min-height: calc(100% - 89px);
 }
