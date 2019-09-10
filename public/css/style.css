@@ -5,7 +5,7 @@
     max-width: 100%;
 }
 .Header {
-    background-image: url("/IMG_0787copy.jpeg");
+    background-image: url("/images/IMG_0787copy.jpeg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -26,10 +26,18 @@
     color: black;
 }
 .footer {
-    background-color:rgb(40, 40, 40);
+    background-color:rgb(75, 73, 73);
     color: white;
     padding: 30px;
+    text-align: center;
 }
 .footer-pushdown {
    min-height: calc(100% - 89px);
+}
+.navbar, nav a {
+    background-color: rgb(75, 73, 73);
+    color:white;
+}
+nav a:hover {
+    color:lightgrey;
 }

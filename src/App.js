@@ -45,19 +45,19 @@ function App() {
             <div className="fakeimg">Fake Image</div>
             <p>Some text..</p>
             <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
-            </div>
-            <br />
-            <div className="col-sm-4">
-              <h2>Brick Breaker Game</h2>
-              <h5>Title description, Sep 2, 2017</h5>
-              <div className="fakeimg">Fake Image</div>
-              <p>Some text..</p>
-              <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
-            </div>
+          </div>
+          <br />
+          <div className="col-sm-4">
+            <h2>Brick Breaker Game</h2>
+            <h5>Title description, Sep 2, 2017</h5>
+            <div className="fakeimg">Fake Image</div>
+            <p>Some text..</p>
+            <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+          </div>
         </div>
       </div>
-      <div className="jumbotron text-center" style={{ marginBottom: 0 }}>
-        <p>Footer</p>
+      <div className="footer">      
+          <p>Footer</p>
       </div>
     </div>
   );

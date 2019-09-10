@@ -4,8 +4,8 @@ export default class Nav extends Component {
     render() {
         return (
             <div>
-                <nav className="navbar navbar-expand-sm bg-dark navbar-dark">
-                    <a className="navbar-brand" href="#">Navbar</a>
+                <nav className="navbar navbar-expand-sm">
+                    <a className="navbar-brand" href="#">Home</a>
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
                         <span className="navbar-toggler-icon" />
                     </button>
