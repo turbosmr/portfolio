@@ -5,7 +5,7 @@ export default class Nav extends Component {
         return (
             <div>
                 <nav className="navbar navbar-expand-sm">
-                    <a className="navbar-brand" href="#">Home</a>
+                    <a className="navbar-brand" href="#" style={{ marginBottom: 0}}>Home</a>
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
                         <span className="navbar-toggler-icon" />
                     </button>

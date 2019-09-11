@@ -14,6 +14,7 @@ function App() {
       <Nav></Nav>
       <Header></Header>
       <Projects></Projects>
+      
       <div className="container" style={{ marginTop: '30px' }}>
         <div className="row">
           <div className="col-sm-4">

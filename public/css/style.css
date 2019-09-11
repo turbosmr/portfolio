@@ -14,18 +14,18 @@
 }
 .HeaderText {
     font-weight: 200;
-    font-size: 70px;
+    font-size: 50px;
     color: black;
     text-shadow: 1px 1px white;
     padding-top: 40px;
 }
 .SubheaderText {
     font-weight: 200;
-    font-size: 40px;
+    font-size: 25px;
     color: black;
 }
 .footer {
-    background-color:rgb(75, 73, 73);
+    background-color:rgb(77, 100, 119);
     color: white;
     padding: 30px;
     text-align: center;
@@ -34,9 +34,14 @@
    min-height: calc(100% - 89px);
 }
 .navbar, nav a {
-    background-color: rgb(75, 73, 73);
+    background-color: rgb(77, 100, 119);
     color:white;
+
 }
 nav a:hover {
     color:lightgrey;
+}
+.projects {
+color: rgb(77, 100, 119);
+
 }
