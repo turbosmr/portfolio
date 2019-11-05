@@ -1,27 +1,21 @@
 
-.mainImage {
-    background-image: url("IMG_0787copy.jpeg");
-    max-height: 100%;
-    max-width: 100%;
-}
 .Header {
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
-    color: lightgray;
 }
 .HeaderText {
     font-weight: 200;
-    font-size: 70px;
+    font-size: 60px;
     color: black;
     text-shadow: 1px 1px white;
-    padding-top: 20px;
+    padding-top: 15px;
 }
 .SubheaderText {
     font-weight: 200;
-    font-size: 40px;
+    font-size: 30px;
     color: black;
 }
 .footer {
