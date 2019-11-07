@@ -4,7 +4,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 500px;
+    height: 350px;
 }
 .HeaderText {
     font-weight: 200;
@@ -39,3 +39,4 @@ nav a:hover {
 color: rgb(77, 100, 119);
 
 }
+
