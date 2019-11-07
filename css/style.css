@@ -4,19 +4,22 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 400px;
+    height: 350px;
 }
 .HeaderText {
-    font-weight: 200;
+    font-weight: 250;
     font-size: 60px;
     color: black;
     text-shadow: 1px 1px white;
     padding-top: 15px;
+    margin-bottom: 0px;
 }
 .SubheaderText {
-    font-weight: 200;
+
     font-size: 30px;
     color: black;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 .footer {
     background-color:rgb(77, 100, 119);
