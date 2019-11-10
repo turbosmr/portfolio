@@ -9,15 +9,13 @@
 .HeaderText {
     font-weight: 250;
     font-size: 60px;
-    color: black;
-    text-shadow: 1px 1px white;
+    -webkit-filter: drop-shadow(5px 5px 5px white);
+    filter: drop-shadow(5px 5px 5px white);
     padding-top: 15px;
     margin-bottom: 0px;
 }
 .SubheaderText {
-
     font-size: 30px;
-    color: black;
     margin-top: 0px;
     margin-bottom: 0px;
 }
@@ -41,5 +39,13 @@ nav a:hover {
 .projects {
 color: rgb(77, 100, 119);
 
+}
+.about {
+    background-color: rgb(228, 227, 227);
+    padding-bottom: 20px;
+    padding-top: 40px;
+    border-radius: 5px;
+    -webkit-filter: drop-shadow(5px 5px 5px rgb(180, 180, 180));
+    filter: drop-shadow(5px 5px 5px rgb(180, 180, 180));
 }
 
