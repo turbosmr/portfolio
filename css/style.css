@@ -6,10 +6,10 @@
     -o-background-size: cover;
     background-size: cover;
     height: 250px;
-    background-color: rgb(38, 62, 78);
+    background-color: rgb(59, 59, 59);
 }
 .HeaderText{
-    color: white;
+    color: rgb(89, 255, 219);
     font-weight: 250;
     font-size: 70px;
     padding-top: 30px;
@@ -21,7 +21,7 @@
     margin-bottom: 0px;
 }
 .footer {
-    background-color:rgb(38, 62, 78);
+    background-color:rgb(59, 59, 59);
     color: white;
     padding: 40px;
     text-align: center;
@@ -38,7 +38,7 @@ nav a:hover {
     color:lightgrey;
 }
 .projects {
-color: rgb(77, 100, 119);
+color: rgb(34, 97, 83);
 -webkit-filter: drop-shadow(5px 5px 5px rgb(195, 195, 195));
 filter: drop-shadow(5px 5px 5px rgb(195, 195, 195));
 
