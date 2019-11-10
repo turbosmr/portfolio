@@ -1,27 +1,29 @@
 
 .Header {
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
+    background: url(PATH_TO_IMAGE) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
-    height: 500px;
+    height: 300px;
+    background-color: rgb(77, 100, 119);
 }
-.HeaderText {
-    font-weight: 200;
+.HeaderText{
+    color: white;
+    font-weight: 250;
     font-size: 60px;
-    color: black;
-    text-shadow: 1px 1px white;
-    padding-top: 15px;
+    padding-top: 50px;
 }
 .SubheaderText {
-    font-weight: 200;
+    color: white;
     font-size: 30px;
-    color: black;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 .footer {
     background-color:rgb(77, 100, 119);
     color: white;
-    padding: 30px;
+    padding: 20px;
     text-align: center;
 }
 .footer-pushdown {
@@ -37,5 +39,16 @@ nav a:hover {
 }
 .projects {
 color: rgb(77, 100, 119);
+-webkit-filter: drop-shadow(5px 5px 5px rgb(195, 195, 195));
+filter: drop-shadow(5px 5px 5px rgb(195, 195, 195));
 
 }
+.about {
+    background-color: rgb(228, 227, 227);
+    padding-bottom: 20px;
+    padding-top: 40px;
+    border-radius: 5px;
+    -webkit-filter: drop-shadow(5px 5px 5px rgb(195, 195, 195));
+    filter: drop-shadow(5px 5px 5px rgb(195, 195, 195));
+}
+
