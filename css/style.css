@@ -11,7 +11,7 @@
 .HeaderText {
     color: white;
     font-weight: 250;
-    font-size: 70px;
+    font-size: 80px;
     padding-top: 60px;
 }
 .SubheaderText {
@@ -19,6 +19,7 @@
     font-size: 30px;
     margin-top: 0px;
     margin-bottom: 0px;
+    padding-bottom: 5px;
 }
 .footer {
     background-color:rgb(77, 100, 119);
