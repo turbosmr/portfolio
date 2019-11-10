@@ -38,8 +38,8 @@ nav a:hover {
 }
 .projects {
 color: rgb(77, 100, 119);
--webkit-filter: drop-shadow(5px 5px 5px rgb(180, 180, 180));
-filter: drop-shadow(5px 5px 5px rgb(180, 180, 180));
+-webkit-filter: drop-shadow(5px 5px 5px rgb(195, 195, 195));
+filter: drop-shadow(5px 5px 5px rgb(195, 195, 195));
 
 }
 .about {
@@ -47,7 +47,7 @@ filter: drop-shadow(5px 5px 5px rgb(180, 180, 180));
     padding-bottom: 20px;
     padding-top: 40px;
     border-radius: 5px;
-    -webkit-filter: drop-shadow(5px 5px 5px rgb(180, 180, 180));
-    filter: drop-shadow(5px 5px 5px rgb(180, 180, 180));
+    -webkit-filter: drop-shadow(5px 5px 5px rgb(195, 195, 195));
+    filter: drop-shadow(5px 5px 5px rgb(195, 195, 195));
 }
 
