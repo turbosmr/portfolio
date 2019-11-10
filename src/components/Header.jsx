@@ -9,7 +9,7 @@ export default class Header extends Component {
         
                 <p>
                     <a href="https://www.linkedin.com/in/steve-rentschler/">
-                        <img src="images/SRlogo3.png" alt="linkedIn" style={{ width: '110px', border: 0, marginRight: 20, marginBottom: 15 }} />
+                        <img src="images/SRlogo3.png" alt="linkedIn" style={{ width: '130px', border: 0, marginRight: 20, marginBottom: 15 }} />
                        </a>Steve Rentschler</p>
                    
             
