@@ -1,8 +1,9 @@
 
 .Header {
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
+    background: url(PATH_TO_IMAGE) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
     height: 350px;
 }
@@ -11,8 +12,7 @@
     font-size: 70px;
     -webkit-filter: drop-shadow(5px 5px 5px white);
     filter: drop-shadow(5px 5px 5px white);
-    padding-top: 15px;
-    margin-bottom: 0px;
+    padding-top: 60px;
 }
 .SubheaderText {
     font-size: 30px;
