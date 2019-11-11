@@ -14,11 +14,11 @@ function App() {
       <Header></Header>
       <Projects></Projects>
 
-      <div className="container-fluid" style={{ marginTop: '40px' }}>
+      <div className="container-fluid" style={{ marginTop: '0px', marginBottom: '30px' }}>
         <div className="container">
           <div className="row">
             <div className="col-xl-4">
-              <div className="container projects">
+              <div className="container text-color">
                 <h1>Languages and Frameworks</h1>
               </div>
               <div className="row">
@@ -41,7 +41,7 @@ function App() {
               </div>
             </div>
             <div className="col-xl-8">
-              <div className="container projects">
+              <div className="container text-color">
                 <h1>About me</h1>
               </div>
               <p style={{ marginTop: '20px', marginBottom: "30px" }}>

@@ -3,14 +3,16 @@ import React, { Component } from 'react'
 export default class Projects extends Component {
     render() {
         return (
-            <div style={{ marginTop: 40, marginBottom: 40 }}>
-                <div className="projects text-center">
+            <div style={{ marginTop: 0, marginBottom: 40 }}>
+          
+                <div className="container-fluid about" style={{ marginTop: '0px'}}>
+                <div className="text-color text-center">
                     <h1>Projects</h1>
                 </div>
-                <div className="container about" style={{ marginTop: '30px', paddingRight: 50, paddingLeft: 40 }}>
+                <div className="container about">
                     <div className="row">
                         <div className="col-xl-4" style={{ marginBottom: '0px' }}>
-                            <iframe width="340" height="200" src="https://www.youtube.com/embed/9nRzWhy_vqM"
+                            <iframe width="350" height="200" src="https://www.youtube.com/embed/9nRzWhy_vqM"
                                 frameBorder='0'
                                 allow='autoplay; encrypted-media'
                                 allowFullScreen
@@ -36,7 +38,7 @@ export default class Projects extends Component {
                             </ul>
                         </div>
                         <div className="col-xl-4" style={{ marginBottom: '0px' }}>
-                            <iframe width="340" height="200" src="https://www.youtube.com/embed/0GFV_LkWFps"
+                            <iframe width="350" height="200" src="https://www.youtube.com/embed/0GFV_LkWFps"
                                 frameBorder='0'
                                 allow='autoplay; encrypted-media'
                                 allowFullScreen
@@ -57,7 +59,7 @@ export default class Projects extends Component {
                             </ul>
                         </div>
                         <div className="col-xl-4" style={{ marginBottom: '0px' }}>
-                            <iframe width="340" height="200" src="https://www.youtube.com/embed/54Vhgv9kfhA"
+                            <iframe width="350" height="200" src="https://www.youtube.com/embed/54Vhgv9kfhA"
                                 frameBorder='0'
                                 allow='autoplay; encrypted-media'
                                 allowFullScreen
@@ -79,6 +81,7 @@ export default class Projects extends Component {
                         </div>
                     </div>
                 </div>
+            </div>
             </div>
 
 
