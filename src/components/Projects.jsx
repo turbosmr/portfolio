@@ -19,12 +19,13 @@ export default class Projects extends Component {
                                 title='video'
                             />
                             <h2 style={{ marginTop: '10px' }}>Online Multiplayer Chess Game</h2>
+                            <hr style={{ borderWidth:2 }}/>
                             <p style={{ marginTop: '10px' }}>This was a team project for CSC 667 at SFSU.
-                            I was the Team Lead and Front-end Lead. We ended up getting 99 out of 100
-                            on this project. I implentented the front-end code and designed the project
+                            I was the Team Lead and Front-end Lead. I implentented the front-end code and designed the project
                             from top to bottom with input from our Back-end Lead, Johnson Wong. Here's the&nbsp;
-                            <a href="https://github.com/turbosmr/online-chess-game">Github Link</a>
+                            <a style={{ color: 'rgb(34, 97, 83)' }} href="https://github.com/turbosmr/online-chess-game">Github Link</a>.
                             </p>
+                            <hr style={{ borderWidth:2 }}/>
                             <p>Features:</p>
                             <ul>
                                 <li style={{ margin: '0px' }}>Software Stack: Node.js, Express, Handlebars, MySQL,
@@ -45,9 +46,11 @@ export default class Projects extends Component {
                                 title='video'
                             />
                             <h2 style={{ marginTop: '10px' }}>Tank Game</h2>
-                            <p style={{ marginTop: '45px' }}>This was my first video game project for CSC 413 at SFSU,
+                            <hr style={{ marginTop: '54px', borderWidth:2 }}/>
+                            <p style={{ marginTop: '0px' }}>This was my first video game project for CSC 413 at SFSU,
                             coded in Java using Object Oriented Priciples.
                             </p>
+                            <hr style={{ borderWidth:2 }}/>
                             <p>Features:</p>
                             <ul>
                                 <li style={{ margin: '0px' }}>Software Stack: Java</li>
@@ -65,11 +68,13 @@ export default class Projects extends Component {
                                 allowFullScreen
                                 title='video'
                             />
-                            <h2 style={{ marginTop: '10px' }}>Brick Breaker Game</h2>
-                            <p style={{ marginTop: '45px' }}>
+                            <h2 style={{ marginTop: '10px'}}>Brick Breaker Game</h2>
+                            <hr style={{ marginTop: '54px', borderWidth:2 }}/>
+                            <p style={{ marginTop: '0px' }}>
                                 This was my second video game that I made for CSC 413 at SFSU, coded in Java.
                                  I reused a lot of the code from my tank game.
                             </p>
+                            <hr style={{ borderWidth:2 }}/>
                             <p>Features:</p>
                             <ul>
                                 <li style={{ margin: '0px' }}>Software Stack: Java</li>
