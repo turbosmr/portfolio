@@ -15,7 +15,7 @@
     padding-top: 30px;
 }
 .SubheaderText {
-    color: white;
+    color: rgb(228, 227, 227);
     font-size: 30px;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -37,18 +37,13 @@
 nav a:hover {
     color:lightgrey;
 }
-.projects {
-color: rgb(34, 97, 83);
--webkit-filter: drop-shadow(5px 5px 5px rgb(195, 195, 195));
-filter: drop-shadow(5px 5px 5px rgb(195, 195, 195));
-
+.text-color {
+    color: rgb(34, 97, 83);
+    margin-bottom: 0px; 
 }
 .about {
-    background-color: rgb(238, 235, 235);
+    background-color: rgb(228, 227, 227);
     padding-bottom: 20px;
     padding-top: 40px;
-    border-radius: 5px;
-    -webkit-filter: drop-shadow(5px 5px 5px rgb(195, 195, 195));
-    filter: drop-shadow(5px 5px 5px rgb(195, 195, 195));
 }
 
