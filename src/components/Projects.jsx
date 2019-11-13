@@ -48,7 +48,8 @@ export default class Projects extends Component {
                             <h2 style={{ marginTop: '10px' }}>Tank Game</h2>
                             <hr style={{ marginTop: '54px', borderWidth:2 }}/>
                             <p style={{ marginTop: '0px' }}>This was my first video game project for CSC 413 at SFSU,
-                            coded in Java using Object Oriented Priciples.
+                            coded in Java using Object Oriented Priciples. Here's the&nbsp;
+                            <a style={{ color: 'rgb(34, 97, 83)' }} href="https://github.com/turbosmr/Tank-Game">Github Link</a>.
                             </p>
                             <hr style={{ borderWidth:2 }}/>
                             <p>Features:</p>

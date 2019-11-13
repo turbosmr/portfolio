@@ -45,13 +45,13 @@ function App() {
                 <h1>About me</h1>
               </div>
               <p style={{ marginTop: '20px', marginBottom: "30px" }}>
-                Hi there! I’m a senior at SFSU majoring in Computer Science. I've been a Team Lead on
-                two projects now.
-                I have a background in art and enjoy designing, drawing, painting, and sculpting.
-                While I’m attending SFSU for computer science, I’m also a certified sommelier and
-                work in the restaurant industry. When I’m not working, I love golfing, working out,
-                and wine tasting. Before working in the restaurant industry, I worked at
-                golf courses to support my golfing habit and played on the De Anza golf team.
+                Hi there! I’m a senior at SFSU majoring in Computer Science. With strong leadership, 
+                communication, collaboration, and organizational skills, I'm leading a second team 
+                project at SFSU. While I’m attending SFSU for computer science, I’m also a certified 
+                sommelier and work in the restaurant industry, which has taught me a lot about dealing 
+                with different personalities and difficult situations.
+                I also have a background in art and enjoy designing, drawing, painting, and sculpting.
+                In my spare time I enjoy golfing and working out.
             </p>
             </div>
           </div>
