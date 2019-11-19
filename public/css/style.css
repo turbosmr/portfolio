@@ -5,14 +5,14 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    height: 250px;
+    height: 350px;
     background-color: rgb(59, 59, 59);
 }
 .HeaderText{
     color: rgb(89, 255, 219);
     font-weight: 250;
     font-size: 70px;
-    padding-top: 30px;
+    padding-top: 80px;
 }
 .SubheaderText {
     color: rgb(228, 227, 227);
@@ -43,7 +43,6 @@ nav a:hover {
 }
 .about {
     background-color: rgb(228, 227, 227);
-    padding-bottom: 20px;
     padding-top: 40px;
 }
 hr { 
@@ -55,4 +54,17 @@ hr {
     border-style: inset;
     background-color: black;
   } 
+.container-video {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+.video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
 
