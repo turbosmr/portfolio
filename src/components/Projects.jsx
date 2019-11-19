@@ -11,7 +11,7 @@ export default class Projects extends Component {
                     </div>
                     <div className="container about">
                         <div className="row">
-                            <div className="col-xl-4" style={{ marginBottom: '40px' }}>
+                            <div className="col-lg-4" style={{ marginBottom: '40px' }}>
 
                                 <div class="container-video">
                                     <iframe src="https://www.youtube.com/embed/9nRzWhy_vqM"
@@ -44,7 +44,7 @@ export default class Projects extends Component {
                                     <li style={{ margin: '0px' }}>Chat with your oppenent</li>
                                 </ul>
                             </div>
-                            <div className="col-xl-4" style={{ marginBottom: '40px' }}>
+                            <div className="col-lg-4" style={{ marginBottom: '40px' }}>
 
                                 <div class="container-video">
                                     <iframe src="https://www.youtube.com/embed/0GFV_LkWFps"
@@ -72,7 +72,7 @@ export default class Projects extends Component {
                                     <li style={{ margin: '0px' }}>Mini map in the center shows the whole battlefield</li>
                                 </ul>
                             </div>
-                            <div className="col-xl-4" style={{ marginBottom: '40px' }}>
+                            <div className="col-lg-4" style={{ marginBottom: '40px' }}>
                                
                                 <div class="container-video">
                                     <iframe src="https://www.youtube.com/embed/54Vhgv9kfhA"

@@ -17,7 +17,7 @@ function App() {
       <div className="container-fluid" style={{ marginTop: '0px', marginBottom: '30px' }}>
         <div className="container">
           <div className="row">
-            <div className="col-xl-12">
+            <div className="col-lg-12">
               <h1 style={{ textAlign: "center" }} className="text-color">About Me</h1>
               <p style={{ marginTop: '20px', marginBottom: "30px" }}>
                 Hi there! I’m a senior at SFSU majoring in Computer Science. With strong leadership,
@@ -29,10 +29,10 @@ function App() {
                 In my spare time I enjoy golfing and working out.
             </p>
             </div>
-            <div className="col-xl-6">
+            <div className="col-lg-6">
               <h1 className="text-color">Languages and Frameworks</h1>
               <div className="row" style={{ marginTop: '20px' }}>
-                <div className="col-sm-4">
+                <div className="col-sm-6">
                   <ul>
                     <li style={{ margin: '0px' }}>Java</li>
                     <li style={{ margin: '0px' }}>C++</li>
@@ -50,11 +50,11 @@ function App() {
                 </div>
               </div>
             </div>
-            <div className="col-xl-6" style={{ marginBottom: "30px" }}>
+            <div className="col-lg-6" style={{ marginBottom: "30px" }}>
 
               <h1 className="text-color">Contact Me</h1>
               <div className="row" style={{ marginTop: '20px' }}>
-                <div className="col-xl-6">
+                <div className="col-sm-6">
 
                   <p>  <img src="images/phone.png" alt="gitHub" style={{ width: '30px', border: 0, marginRight: 10 }} />
                     <a style={{ color: "black" }} href="tel:408-839-1574">408-839-1574</a></p>
@@ -64,7 +64,7 @@ function App() {
 
                 </div>
 
-                <div className="col-xl-6">
+                <div className="col-sm-6">
 
                   <p> <img src="images/linkedInBlack.png" alt="gitHub" style={{ width: '30px', border: 0, marginRight: 10 }} />
                     <a style={{ color: "black" }} href="https://www.linkedin.com/in/steve-rentschler/">LinkedIn</a></p>
