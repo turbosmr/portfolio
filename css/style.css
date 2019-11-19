@@ -5,14 +5,14 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    height: 400px;
+    height: 350px;
     background-color: rgb(59, 59, 59);
 }
 .HeaderText{
     color: rgb(89, 255, 219);
     font-weight: 250;
     font-size: 70px;
-    padding-top: 30px;
+    padding-top: 80px;
 }
 .SubheaderText {
     color: rgb(228, 227, 227);
