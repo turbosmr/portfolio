@@ -1,24 +1,58 @@
 
-.Header {
+.Header{
     background: url(PATH_TO_IMAGE) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    height: 350px;
+    height: 200px;
     background-color: rgb(59, 59, 59);
 }
 .HeaderText{
     color: rgb(89, 255, 219);
     font-weight: 250;
-    font-size: 70px;
-    padding-top: 80px;
+    font-size: 40px;
+    padding-top: 45px;
 }
 .SubheaderText {
     color: rgb(228, 227, 227);
-    font-size: 30px;
+    font-size: 25px;
     margin-top: 0px;
     margin-bottom: 0px;
+}
+.text-color {
+    color: rgb(34, 97, 83);
+    margin-bottom: 0px; 
+    text-align: center;
+}
+@media (min-width: 544px) {  
+    .HeaderText {
+        font-size:50px; 
+    }
+    .SubheaderText {
+        font-size: 35px;
+    }
+    .Header {
+        height: 240px;
+    }
+    .text-color{
+        text-align: center;
+    }
+}
+@media (min-width: 992px) {  
+    .HeaderText {
+        font-size:70px;
+        padding-top: 65px;
+    }
+    .SubheaderText {
+        font-size: 40px;
+    }
+    .Header {
+        height: 330px;
+    }
+    .text-color{
+        text-align: left;
+    }
 }
 .footer {
     background-color:rgb(59, 59, 59);
@@ -36,10 +70,6 @@
 }
 nav a:hover {
     color:lightgrey;
-}
-.text-color {
-    color: rgb(34, 97, 83);
-    margin-bottom: 0px; 
 }
 .about {
     background-color: rgb(228, 227, 227);
