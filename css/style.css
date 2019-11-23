@@ -30,6 +30,8 @@
     border: 0px;
     margin-right: 10px;
     margin-bottom: 0px;
+    -webkit-filter: drop-shadow(5px 5px 5px rgb(20, 20, 20));
+    filter: drop-shadow(5px 5px 5px rgb(20, 20, 20));
 }
 @media (min-width: 550px) {  
     .HeaderText {
