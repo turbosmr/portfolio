@@ -45,7 +45,7 @@ function App() {
                     <li style={{ margin: '0px' }}>CSS</li>
                     <li style={{ margin: '0px' }}>Bootstrap</li>
                     <li style={{ margin: '0px' }}>Handlebars</li>
-                    <li style={{ margin: '0px' }}>React</li>
+                    <li style={{ margin: '0px' }}>ReactJS</li>
                   </ul>
                 </div>
               </div>
