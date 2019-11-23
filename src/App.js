@@ -17,19 +17,19 @@ function App() {
       <div className="container-fluid" style={{ marginTop: '0px', marginBottom: '30px' }}>
         <div className="container">
           <div className="row">
-            <div className="col-lg-12">
+            <div className="col-md-12">
               <h1 style={{ textAlign: "center" }} className="text-color">About Me</h1>
               <p style={{ marginTop: '20px', marginBottom: "30px" }}>
                 Hi there! I’m a senior at SFSU majoring in Computer Science. With strong leadership,
                 communication, collaboration, and organizational skills, I'm leading a second team
-                project at SFSU. While I’m attending SFSU for computer science, I’m also a certified
+                project at SFSU. While I’m attending school, I’m also a certified
                 sommelier and work in the restaurant industry, which has taught me a lot about dealing
                 with different personalities and difficult situations.
                 I also have a background in art and enjoy designing, drawing, painting, and sculpting.
                 In my spare time I enjoy golfing and working out.
             </p>
             </div>
-            <div className="col-lg-6">
+            <div className="col-md-6">
               <h1 className="text-color">Languages and Frameworks</h1>
               <div className="row" style={{ marginTop: '20px' }}>
                 <div className="col-sm-6">
@@ -50,7 +50,7 @@ function App() {
                 </div>
               </div>
             </div>
-            <div className="col-lg-6" style={{ marginBottom: "30px" }}>
+            <div className="col-md-6" style={{ marginBottom: "30px" }}>
 
               <h1 className="text-color">Contact Me</h1>
               <div className="row" style={{ marginTop: '20px' }}>

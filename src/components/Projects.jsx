@@ -22,7 +22,8 @@ export default class Projects extends Component {
                                         class="video"></iframe>
                                 </div>
 
-                                <h2 style={{ marginTop: '10px' }}>Online Multiplayer Chess Game</h2>
+                                <h2 style={{ marginTop: '10px' }}> <a style={{ color: 'black' }} href="https://github.com/turbosmr/online-chess-game">
+                                Online Multiplayer Chess Game</a></h2>
                                 <hr style={{ borderWidth: 2 }} />
                                 <p style={{ marginTop: '10px' }}>This was a team project for CSC 667 at SFSU.
                                 I was the Team Lead and Front-end Lead. I implentented the majority of the front-end code and designed the project
@@ -55,7 +56,8 @@ export default class Projects extends Component {
                                         class="video"></iframe>
                                 </div>
 
-                                <h2 style={{ marginTop: '10px' }}>Tank Game</h2>
+                                <h2 style={{ marginTop: '10px' }}> <a style={{ color: 'black' }} href="https://github.com/turbosmr/TankGame">
+                                Tank Game</a></h2>
                                 <hr style={{ marginTop: '54px', borderWidth: 2 }} />
                                 <p style={{ marginTop: '0px' }}>This was my first video game project for CSC 413 at SFSU,
                                 coded in Java using Object Oriented Priciples. Here's the&nbsp;
@@ -83,7 +85,8 @@ export default class Projects extends Component {
                                         class="video"></iframe>
                                 </div>
 
-                                <h2 style={{ marginTop: '10px' }}>Brick Breaker Game</h2>
+                                <h2 style={{ marginTop: '10px' }}> <a style={{ color: 'black' }} href="https://github.com/turbosmr/BrickBreakerGame">
+                                Brick Breaker Game</a></h2>
                                 <hr style={{ marginTop: '54px', borderWidth: 2 }} />
                                 <p style={{ marginTop: '0px' }}>
                                     This was my second video game that I made for CSC 413 at SFSU, coded in Java.
